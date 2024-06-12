@@ -17,4 +17,8 @@ apt install python3-plotly python3-geopy
 You also need numpy and a couple of other basic packages that should be
 installed if you ever ran Python on your system.
 
+If you want to check out the visual map, check out
+[my website](https://nebelwelt.net/gannimo/conf_locs.html) or have a look at the
+static image below:
+
 ![](conf_locs.png)
